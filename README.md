@@ -11,7 +11,5 @@
 </ul>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="imgs/Yahtzee1.PNG" style="flex: 1; max-width: 33%; height: auto; margin-right: 10px;">
-  <img src="imgs/Yahtzee2.PNG" style="flex: 1; max-width: 33%; height: auto; margin-right: 10px;">
-  <img src="imgs/Yahtzee3.PNG" style="flex: 1; max-width: 33%; height: auto;">
+  <img src="imgs/Yahtzee1.PNG" style="flex: 1; max-width: 33%; height: auto; margin-right: 10px;"><img src="imgs/Yahtzee2.PNG" style="flex: 1; max-width: 33%; height: auto; margin-right: 10px;"><img src="imgs/Yahtzee3.PNG" style="flex: 1; max-width: 33%; height: auto;">
 </div>
