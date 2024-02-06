@@ -10,8 +10,8 @@
   <li>If all dice have the same value "Yahtzee!" is displayed</li>
 </ul>
 
-<div style="display: flex;">
-  <img src="imgs/Yahtzee1.PNG" style="width: 150px; height: 100px; margin-right: 10px;">
-  <img src="imgs/Yahtzee2.PNG" style="width: 150px; height: 100px; margin-right: 10px;">
-  <img src="imgs/Yahtzee3.PNG" style="width: 150px; height: 100px">
+<div style="display: flex; justify-content: space-between;">
+  <img src="imgs/Yahtzee1.PNG" style="flex: 1; max-width: 33%; height: auto; margin-right: 10px;">
+  <img src="imgs/Yahtzee2.PNG" style="flex: 1; max-width: 33%; height: auto; margin-right: 10px;">
+  <img src="imgs/Yahtzee3.PNG" style="flex: 1; max-width: 33%; height: auto;">
 </div>
