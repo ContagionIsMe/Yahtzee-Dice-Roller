@@ -6,5 +6,12 @@
   <li>Roll up to 5 dice simultaneously</li>
   <li>Ability to click on each die to hold and stop it from being rerolled</li>
   <li>The Roll button allows you to roll up to 3 times just like in Yahtzee</li>
-  <li>The Reset button will reset held dice and roll counter for the next player</li>
+  <li>The Reset button will reset the held dice and roll counter for the next player</li>
+  <li>If all dice have the same value "Yahtzee!" is displayed</li>
 </ul>
+
+<div style="display: flex;">
+  <img src"imgs/Yahtzee1.PNG" style="width: 100px; height: 100px; margin-right: 10px;">
+  <img src"imgs/Yahtzee2.PNG" style="width: 100px; height: 100px; margin-right: 10px;">
+  <img src"imgs/Yahtzee3.PNG" style="width: 100px; height: 100px">
+</div>
