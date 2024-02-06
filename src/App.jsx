@@ -7,7 +7,7 @@ function allSameValue(dice) {
 function App() {
   return (
     <>
-      <Yahtzee winCheck={allSameValue} title="Roll 6 of the same number!" />
+      <Yahtzee winCheck={allSameValue} title="Roll 5 of the same number!" />
     </>
   );
 }

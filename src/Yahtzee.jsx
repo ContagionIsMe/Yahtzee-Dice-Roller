@@ -3,7 +3,7 @@ import { getRolls } from "./utils";
 import Dice from "./Dice";
 import Reroll from "./Reroll";
 
-function Yahtzee({ title = 'Yahtzee', numDice = 6, winCheck }) {
+function Yahtzee({ title = 'Yahtzee', numDice = 5, winCheck }) {
   const [dice, setDice] = useState(getRolls(numDice));
   const [selectedDice, setSelectedDice] = useState(Array(numDice).fill(false));
 
