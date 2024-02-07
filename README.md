@@ -15,3 +15,12 @@
   <img src="imgs/Yahtzee2.PNG">
   <img src="imgs/Yahtzee3.PNG">
 </div>
+
+<h2>Installation</h2>
+<ol>
+    <li>Ensure you have Node.js installed on your machine.</li>
+    <li>Clone the repository: <code>git clone https://github.com/ContagionIsMe/Yahtzee-Dice-Roller</code>.</li>
+    <li>Navigate to the project directory and install dependencies: <code>npm install</code>.</li>
+    <li>Start the development server: <code>npm start</code>.</li>
+    <li>Open your browser and visit <code>http://localhost:3000</code> to view the application.</li>
+</ol>
